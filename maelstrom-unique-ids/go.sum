@@ -1,0 +1,4 @@
+github.com/bwmarrin/snowflake v0.3.0 h1:xm67bEhkKh6ij1790JB83OujPR5CzNe8QuQqAgISZN0=
+github.com/bwmarrin/snowflake v0.3.0/go.mod h1:NdZxfVWX+oR6y2K0o6qAYv6gIOP9rjG0/E9WsDpxqwE=
+github.com/jepsen-io/maelstrom/demo/go v0.0.0-20250204203845-8263d1dd2b7a h1:Y4T2rLnDS94/hFCdQYxb97SJObNcMJk6M1lJg3qCGZQ=
+github.com/jepsen-io/maelstrom/demo/go v0.0.0-20250204203845-8263d1dd2b7a/go.mod h1:i6aVIs5AIOOaQF1lAisBm7DDeWM1Iopf+26UxjagsCU=
